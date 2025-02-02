@@ -1,4 +1,4 @@
-# Cloud File Storage Application
+# Cloud File Storage Application (Course project on web programming)
 
 ## Introduction
 
